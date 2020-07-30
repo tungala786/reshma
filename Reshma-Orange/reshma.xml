@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="reshma">
+<test name="reshma">
+
+<classes>
+
+  <class name="myPack.Reshma"/>
+
+</classes>
+
+
+</test>
+</suite>

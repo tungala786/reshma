@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="reshma" duration-ms="36640" started-at="2020-07-30T06:39:23Z" finished-at="2020-07-30T06:39:59Z">
+    <groups>
+    </groups>
+    <test name="reshma" duration-ms="36640" started-at="2020-07-30T06:39:23Z" finished-at="2020-07-30T06:39:59Z">
+      <class name="myPack.Reshma">
+        <test-method status="PASS" signature="addEmp()[pri:0, instance:myPack.Reshma@2752f6e2]" name="addEmp" duration-ms="29005" started-at="2020-07-30T12:09:23Z" finished-at="2020-07-30T12:09:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addEmp -->
+        <test-method status="PASS" signature="editLocation()[pri:0, instance:myPack.Reshma@2752f6e2]" name="editLocation" duration-ms="0" started-at="2020-07-30T12:09:52Z" finished-at="2020-07-30T12:09:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editLocation -->
+        <test-method status="PASS" signature="addLocation()[pri:0, instance:myPack.Reshma@2752f6e2]" name="addLocation" duration-ms="0" started-at="2020-07-30T12:09:52Z" finished-at="2020-07-30T12:09:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addLocation -->
+        <test-method status="PASS" signature="editEmp()[pri:0, instance:myPack.Reshma@2752f6e2]" name="editEmp" duration-ms="0" started-at="2020-07-30T12:09:52Z" finished-at="2020-07-30T12:09:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editEmp -->
+        <test-method status="PASS" signature="deleteEmp()[pri:0, instance:myPack.Reshma@2752f6e2]" name="deleteEmp" duration-ms="0" started-at="2020-07-30T12:09:52Z" finished-at="2020-07-30T12:09:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteEmp -->
+        <test-method status="PASS" signature="verifyLogin()[pri:0, instance:myPack.Reshma@2752f6e2]" name="verifyLogin" duration-ms="7620" started-at="2020-07-30T12:09:52Z" finished-at="2020-07-30T12:09:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+      </class> <!-- myPack.Reshma -->
+    </test> <!-- reshma -->
+  </suite> <!-- reshma -->
+</testng-results>
